@@ -1,0 +1,10 @@
+.well {
+    background-color: #3498db;
+    margin-top: 30px;
+    /*text-align: center;*/
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
